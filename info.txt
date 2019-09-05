@@ -3,5 +3,3 @@ update
 Change that will be orphaned
 
 commit 1 to revert
-
-commit 2 to revert
