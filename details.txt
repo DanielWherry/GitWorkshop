@@ -5,3 +5,4 @@ Amend demo commit
 squash and merge at github
 
 dev 2 rebase conflict change
+commit 1 rebase
