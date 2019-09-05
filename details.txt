@@ -1,4 +1,5 @@
 Dev 2 terrible work
 
-updated again
-conflicting change
+Amend demo commit
+
+squash and merge at github
