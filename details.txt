@@ -3,3 +3,5 @@ Dev 2 terrible work
 Amend demo commit
 
 squash and merge at github
+
+dev 2 rebase conflict change
